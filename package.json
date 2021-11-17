@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/prenda-school/experiment-github-packages-1-consumer#readme",
   "dependencies": {
-    "@prenda-school/experiment-gh-pkgs-1": "^1.0.0",
+    "@prenda-school/experiment-gpr-single": "^1.0.0",
     "pluralize": "^8.0.0"
   },
   "devDependencies": {
