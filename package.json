@@ -1,5 +1,5 @@
 {
-  "name": "@prenda-school/experiment-github-packages-1-consumer",
+  "name": "@prenda-school/experiment-gpr-consumer",
   "version": "1.0.0",
   "description": "Experimenting with consuming GitHub packages from our organization.",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prenda-school/experiment-github-packages-1-consumer.git"
+    "url": "git+https://github.com/prenda-school/experiment-gpr-consumer.git"
   },
   "author": "William Kelley",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/prenda-school/experiment-github-packages-1-consumer/issues"
+    "url": "https://github.com/prenda-school/experiment-gpr-consumer/issues"
   },
-  "homepage": "https://github.com/prenda-school/experiment-github-packages-1-consumer#readme",
+  "homepage": "https://github.com/prenda-school/experiment-gpr-consumer#readme",
   "dependencies": {
     "@prenda-school/experiment-gpr-single": "^1.0.0",
     "pluralize": "^8.0.0"
