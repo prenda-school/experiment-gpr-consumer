@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/prenda-school/experiment-github-packages-1-consumer/issues"
   },
-  "homepage": "https://github.com/prenda-school/experiment-github-packages-1-consumer#readme"
+  "homepage": "https://github.com/prenda-school/experiment-github-packages-1-consumer#readme",
+  "dependencies": {
+    "@prenda-school/experiment-gh-pkgs-1": "^1.0.0",
+    "pluralize": "^8.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.7"
+  }
 }
