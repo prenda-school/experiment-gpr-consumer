@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/prenda-school/experiment-gpr-consumer#readme",
   "dependencies": {
+    "@prenda-school/experiment-gpr-multiple-first": "^1.0.0",
+    "@prenda-school/experiment-gpr-multiple-second": "^1.0.0",
+    "@prenda-school/experiment-gpr-multiple-third": "^1.0.0",
     "@prenda-school/experiment-gpr-single": "^1.0.0",
     "pluralize": "^8.0.0"
   },
