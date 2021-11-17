@@ -1,0 +1,19 @@
+{
+  "name": "@prenda-school/experiment-github-packages-1-consumer",
+  "version": "1.0.0",
+  "description": "Experimenting with consuming GitHub packages from our organization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prenda-school/experiment-github-packages-1-consumer.git"
+  },
+  "author": "William Kelley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prenda-school/experiment-github-packages-1-consumer/issues"
+  },
+  "homepage": "https://github.com/prenda-school/experiment-github-packages-1-consumer#readme"
+}
